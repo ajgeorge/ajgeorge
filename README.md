@@ -52,7 +52,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Let's%20Connect&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&section=header" alt="Let's Connect Header" style="border-radius: 10px;" />
 </div>
 
-<div align="center" style="margin: 30px 0; padding: 25px; background: linear-gradient(135deg, #285559 0%, #1a2737 100%); border-radius: 15px; box-shadow: 0 6px 20px rgba(93, 39, 161, 0.2);">
+<div align="center" style="margin: 40px 0; padding: 25px; background: linear-gradient(135deg, #285559 0%, #1a2737 100%); border-radius: 15px; box-shadow: 0 6px 20px rgba(93, 39, 161, 0.2);">
   <a href="https://github.com/ajgeorge-agricope">
     <img src="https://img.shields.io/badge/GitHub-Work_Account-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -62,8 +62,4 @@
   <a href="mailto:aaronjosgeorge@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<div align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ready%20to%20Build&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Let's%20create%20something%20amazing%20together&descAlignY=55" alt="Ready to Build Footer" style="border-radius: 10px;" />
 </div>
