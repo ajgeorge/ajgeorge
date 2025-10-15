@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:%231a2737,100:%234f9a97&text=Aaron%20George&fontColor=%23FFFFFF&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&animation=fadeIn" alt="Aaron George Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:%231a2737,100:%23c431a9&text=Aaron%20George&textBg=false&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cloud%20Architect&descSize=25&reversal=false&fontColor=FFFFFF" alt="Aaron George Header" style="border-radius: 10px;"/>
 </div>
 
 <p align="center" style="font-size: 18px; line-height: 1.6; margin: 30px 0;">
@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:%231a2737,100:%23c431a9&text=What%20I%20Do&fontColor=%23FFFFFF&fontAlignY=50&animation=twinkling&section=header" alt="What I Do Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:%231a2737,100:%23c431a9&text=What%20I%20Do&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&section=header" alt="What I Do Header" style="border-radius: 10px;" />
 </div>
 
 <p align="justify" style="font-size: 15px; line-height: 1.8; color: #e8e8e8; background: linear-gradient(135deg, #1a2737 0%, #285559 100%); padding: 30px; border-radius: 12px; margin: 30px 0; box-shadow: 0 8px 25px rgba(76, 49, 169, 0.2);">
@@ -29,7 +29,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:%234f9a97,100:%23db7c17&text=Tech%20Stack&fontColor=%23FFFFFF&fontAlignY=50&animation=twinkling" alt="Tech Stack Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:%231a2737,100:%23c431a9&text=Tech%20Stack&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&section=header" alt="Tech Stack Header" style="border-radius: 10px;"" />
 </div>
 
 <div align="center" style="margin: 35px 0;">
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:%235d27a1,100:%23c431a9&text=Let's%20Connect&fontColor=%23FFFFFF&fontAlignY=50&animation=fadeIn&section=header" alt="Connect Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:%231a2737,100:%23c431a9&text=Let's%20Connect&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&section=header" alt="Let's Connect Header" style="border-radius: 10px;"" />
 </div>
 
 <div align="center" style="margin: 30px 0; padding: 25px; background: linear-gradient(135deg, #285559 0%, #1a2737 100%); border-radius: 15px; box-shadow: 0 6px 20px rgba(93, 39, 161, 0.2);">
@@ -65,5 +65,5 @@
 </div>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:%231a2737,100:%234f9a97&text=Ready%20to%20Build&fontColor=%23FFFFFF&fontAlignY=50&animation=twinkling&desc=Let's%20create%20something%20amazing%20together&descAlignY=70" style="border-radius: 25px; box-shadow: 0 4px 15px rgba(79, 154, 151, 0.4);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:%231a2737,100:%234f9a97&text=Ready%20to%20Build&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Let's%20create%20something%20amazing%20together&descAlignY=55" alt="Ready to Build Footer" style="border-radius: 10px;"" />
 </div>
