@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:%231a2737,100:%234f9a97&text=Aaron%20George&fontColor=%23db7c17&fontAlignY=25&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect&descAlignY=48&animation=fadeIn" alt="Aaron George Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:%231a2737,100:%234f9a97&text=Aaron%20George&fontColor=%23FFFFFF&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&animation=fadeIn" alt="Aaron George Header" />
 </div>
 
-<p align="center" style="font-size: 18px; line-height: 1.6; margin: 20px;">
+<p align="center" style="font-size: 18px; line-height: 1.6; margin: 30px 0;">
   <strong style="color: #c431a9;">Cloud architect. TypeScript evangelist. Full-stack problem solver.</strong><br/>
   <span style="color: #4f9a97;">Turning complex business problems into elegant, scalable solutions on Azure.</span><br/>
   <span style="color: #db7c17;">Building systems that don't just work—they thrive under pressure.</span>
 </p>
 
-<p align="center">
+<p align="center" style="margin: 40px 0;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(210, 124, 23, 0.3);">
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:%231a2737,100:%23c431a9&text=What%20I%20Do&fontColor=FFFFFF&fontAlignY=50&animation=twinkling&section=header" alt="What I Do Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:%231a2737,100:%23c431a9&text=What%20I%20Do&fontColor=%23FFFFFF&fontAlignY=50&animation=twinkling&section=header" alt="What I Do Header" />
 </div>
 
-<p align="justify" style="font-size: 15px; line-height: 1.8; color: #e8e8e8; background: linear-gradient(135deg, #1a2737 0%, #285559 100%); padding: 30px; border-radius: 12px; margin: 25px 0; box-shadow: 0 8px 25px rgba(76, 49, 169, 0.2);">
+<p align="justify" style="font-size: 15px; line-height: 1.8; color: #e8e8e8; background: linear-gradient(135deg, #1a2737 0%, #285559 100%); padding: 30px; border-radius: 12px; margin: 30px 0; box-shadow: 0 8px 25px rgba(76, 49, 169, 0.2);">
   I design and build <strong style="color: #db7c17;">production-grade software</strong> that scales—from architecting cloud-native infrastructures on Azure to crafting lightning-fast APIs with Node.js and TypeScript.
   
   I'm obsessed with <strong style="color: #c431a9;">developer experience</strong> and operational excellence. That means automated CI/CD pipelines, comprehensive test suites, and systems instrumented for observability from day one. If it's not measurable, it's not manageable.
@@ -32,7 +32,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:%234f9a97,100:%23db7c17&text=Tech%20Stack&fontColor=%23FFFFFF&fontAlignY=50&animation=twinkling" alt="Tech Stack Header" />
 </div>
 
-<div align="center" style="margin: 25px 0;">
+<div align="center" style="margin: 35px 0;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -52,7 +52,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:%235d27a1,100:%23c431a9&text=Let's%20Connect&fontColor=%23FFFFFF&fontAlignY=50&animation=fadeIn&section=header" alt="Connect Header" />
 </div>
 
-<div align="center" style="margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #285559 0%, #1a2737 100%); border-radius: 15px; box-shadow: 0 6px 20px rgba(93, 39, 161, 0.2);">
+<div align="center" style="margin: 30px 0; padding: 25px; background: linear-gradient(135deg, #285559 0%, #1a2737 100%); border-radius: 15px; box-shadow: 0 6px 20px rgba(93, 39, 161, 0.2);">
   <a href="https://github.com/ajgeorge-agricope">
     <img src="https://img.shields.io/badge/GitHub-Work_Account-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -65,5 +65,5 @@
 </div>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:%231a2737,100:%234f9a97&text=Ready%20to%20Build&fontColor=%23db7c17&fontAlignY=50&animation=twinkling&desc=Let's%20create%20something%20amazing%20together&descAlignY=70" style="border-radius: 25px; box-shadow: 0 4px 15px rgba(79, 154, 151, 0.4);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:%231a2737,100:%234f9a97&text=Ready%20to%20Build&fontColor=%23FFFFFF&fontAlignY=50&animation=twinkling&desc=Let's%20create%20something%20amazing%20together&descAlignY=70" style="border-radius: 25px; box-shadow: 0 4px 15px rgba(79, 154, 151, 0.4);" />
 </div>
