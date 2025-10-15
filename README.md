@@ -4,7 +4,8 @@
 
 <p align="center">
   <em>Full-stack developer with expertise in architecting and deploying scalable solutions on Microsoft Azure.</em><br>
-  <em>Adept at mentoring engineers and introducing best practices that improve code quality and scalability.</em>
+  <em>Adept at mentoring engineers and introducing best practices that improve code quality and scalability.</em><br>
+  <em><br>My professional work is split between this account and <strong><a href="https://github.com/ajgeorge-agricope" style="color:#FEE715;">ajgeorge-agricope</a></strong>.</em>
 </p>
 
 <p align="center">
@@ -33,20 +34,10 @@
   <img src="https://raw.githubusercontent.com/half-derp/half-derp/main/assets/hr.gif" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ajgeorge">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ajgeorge&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FEE715&icon_color=00FFFF&text_color=F500BD" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajgeorge&layout=compact&hide_border=true&bg_color=0D1117&title_color=FEE715&text_color=FFFFFF"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/half-derp/half-derp/main/assets/hr.gif" width="100%">
-</p>
-
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
+<a href="https://github.com/ajgeorge-agricope" target="_blank"><img src="https://img.shields.io/badge/GitHub-Agricope-181717?style=for-the-badge&logo=github&logoColor=white&color=F500BD" /></a>
 <a href="https://www.linkedin.com/in/ajosgeorge/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" /></a>
 <a href="mailto:aaronjosgeorge@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=FEE715" /></a>
 </p>
