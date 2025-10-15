@@ -12,7 +12,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<h2 align="center">💻 What I Do</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=400&lines=%2F%2F+WHAT+I+DO" alt="What I Do" />
+</h2>
 
 <p align="center">
   I design and build <strong>production-grade software</strong> that scales—from architecting cloud-native infrastructures on Azure to crafting lightning-fast APIs with Node.js and TypeScript.<br/><br/>
@@ -30,7 +32,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=400&lines=%2F%2F+TECH+STACK" alt="Tech Stack" />
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -48,7 +52,9 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-<h2 align="center">📫 Connect</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=400&lines=%2F%2F+CONNECT" alt="Connect" />
+</h2>
 
 <p align="center">
   <a href="https://github.com/ajgeorge-agricope"><img src="https://img.shields.io/badge/GitHub-Work_Account-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
