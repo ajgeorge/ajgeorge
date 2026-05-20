@@ -2,7 +2,7 @@
 
 # Aaron George
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer;AI-Enabled+Business+Software;Automation+Tools+%7C+Internal+Systems+%7C+Cloud+Platforms;Building+practical+AI+tools+for+real+business+workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=850&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer;AI-Enabled+Business+Software;Automation+Tools+%7C+Internal+Systems+%7C+Cloud+Platforms;Building+practical+AI+tools+for+real+business+workflows)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@ I enjoy the full journey from messy requirements to working software: understand
 
 | Area | Focus |
 |---|---|
-| **AI-assisted tools** | Resume editors, document generators, workflow copilots, structured output tools |
+| **AI-assisted tools** | Resume editors, document generators, workflow copilots, structured output systems |
 | **Business platforms** | Admin portals, dashboards, booking systems, role-based systems, reporting tools |
 | **Automation systems** | Tools that reduce repetitive admin work and improve operational speed |
 | **Real-time apps** | WebSocket-based dashboards, technician tracking, live updates, notifications |
@@ -62,39 +62,16 @@ flowchart LR
 
 ---
 
-## Featured builds
+## What I’m building in public
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>AI Resume Editor</h3>
-      <p>A personal tool for tailoring CVs and cover letters while keeping them structured, readable, and ATS-friendly.</p>
-      <p><strong>Focus:</strong> AI writing workflows, document editing, structured generation</p>
-      <p><strong>Stack:</strong> React, Node.js, TypeScript</p>
-    </td>
-    <td width="33%">
-      <h3>AI Requirements Generator</h3>
-      <p>Turns rough business ideas into MVP scopes, feature lists, technical requirements, and implementation plans.</p>
-      <p><strong>Focus:</strong> Product thinking, prompt workflows, full-stack delivery</p>
-      <p><strong>Stack:</strong> TypeScript, Express, MongoDB</p>
-    </td>
-    <td width="33%">
-      <h3>Operations Dashboard</h3>
-      <p>A role-based dashboard for jobs, customers, staff, inventory, reporting, and internal business workflows.</p>
-      <p><strong>Focus:</strong> Admin systems, APIs, dashboards, deployment</p>
-      <p><strong>Stack:</strong> React, RTK Query, Node.js, Azure</p>
-    </td>
-  </tr>
-</table>
+I’m rebuilding this GitHub around practical AI and full-stack engineering projects. The goal is to show complete systems, not just isolated code snippets.
 
----
-
-## Current focus
-
-- Building public AI-assisted tools with clean READMEs, screenshots, and architecture notes
-- Turning real business workflows into full-stack products
-- Improving system design, testing, deployment, and observability
-- Creating practical software that combines AI, automation, and business operations
+| Project type | What it demonstrates |
+|---|---|
+| **AI productivity tools** | Prompt workflows, document editing, structured generation, useful AI interfaces |
+| **Business dashboards** | React interfaces, role-based access, reporting, operational workflows |
+| **Automation systems** | Turning repetitive manual work into reliable software |
+| **Cloud-backed apps** | APIs, databases, Docker, deployment, CI/CD, and production setup |
 
 ---
 
@@ -109,6 +86,15 @@ flowchart TD
     E --> F[Deploy and monitor]
     F --> G[Improve from real usage]
 ```
+
+---
+
+## Current focus
+
+- Building AI-assisted tools that solve real workflow problems
+- Creating full-stack projects with clean READMEs and architecture notes
+- Turning business operations into usable dashboards and automation systems
+- Improving deployment, testing, observability, and system design
 
 ---
 
@@ -127,7 +113,7 @@ flowchart TD
 
 <div align="center">
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronjosgeorge&show_icons=true&hide_border=true&theme=transparent)
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajgeorge&show_icons=true&hide_border=true&theme=transparent&cache_seconds=21600)
 
 </div>
 
