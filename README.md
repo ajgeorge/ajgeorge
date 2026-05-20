@@ -1,129 +1,162 @@
 <div align="center">
 
-# Aaron George
+<pre>
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   AARON GEORGE                                             │
+│   AI-enabled software / automation / cloud systems          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+</pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=850&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer;AI-Enabled+Business+Software;Automation+Tools+%7C+Internal+Systems+%7C+Cloud+Platforms;Building+practical+AI+tools+for+real+business+workflows)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=2600&pause=850&color=F6C177&center=true&vCenter=true&width=850&lines=Full-stack+engineer+building+practical+AI+tools;React+%2B+Node.js+%2B+Azure+%2B+automation;Useful+systems+over+flashy+demos" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## Building practical AI tools for real business workflows
+## ./profile
 
-I’m a full-stack engineer focused on **AI-enabled software, automation tools, and cloud-backed business systems**.
+<table>
+  <tr>
+    <td width="55%">
 
-I work mainly with **React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Docker, and Azure**. My focus is building useful systems that solve operational problems, not just AI demos. That includes document automation, internal tools, admin dashboards, real-time systems, workflow copilots, and production-ready business platforms.
+<pre>
+user        : ajgeorge
+role        : full-stack engineer
+focus       : AI-enabled business software
+stack       : React / TypeScript / Node.js / Azure
+build style : practical, clean, production-minded
+</pre>
 
-I enjoy the full journey from messy requirements to working software: understanding the business problem, designing the data model, building the frontend and backend, deploying the system, and improving it through real usage.
+</td>
+<td width="45%">
+
+I build full-stack systems that turn messy business workflows into usable software.
+
+My current focus is **AI-assisted tools**, internal platforms, automation systems, and cloud-backed products that solve real operational problems.
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## What I build
+## ./what-i-build
 
-| Area | Focus |
+| Area | What I care about |
 |---|---|
-| **AI-assisted tools** | Resume editors, document generators, workflow copilots, structured output systems |
-| **Business platforms** | Admin portals, dashboards, booking systems, role-based systems, reporting tools |
-| **Automation systems** | Tools that reduce repetitive admin work and improve operational speed |
-| **Real-time apps** | WebSocket-based dashboards, technician tracking, live updates, notifications |
-| **Cloud deployments** | Azure, Docker, Nginx, PM2, CI/CD, storage, monitoring, production hardening |
+| **AI-assisted tools** | Document editors, workflow copilots, structured output systems, internal automation |
+| **Business platforms** | Admin portals, dashboards, booking systems, reporting tools, role-based workflows |
+| **Real-time systems** | WebSocket dashboards, live updates, technician tracking, notifications |
+| **Cloud-backed apps** | APIs, databases, Docker, Nginx, CI/CD, Azure deployment, monitoring |
+| **Product engineering** | Turning vague requirements into scoped, usable, production-ready software |
 
 ---
 
-## AI product workflow
+## ./system-map
 
 ```mermaid
 flowchart LR
-    A[Messy Business Process] --> B[Workflow Mapping]
-    B --> C[Data Model + App Architecture]
-    C --> D[AI / Automation Layer]
-    D --> E[Full-Stack Product]
-    E --> F[Cloud Deployment + Monitoring]
-```
-
----
-
-## Tech stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
-</div>
-
----
-
-## What I’m building in public
-
-I’m rebuilding this GitHub around practical AI and full-stack engineering projects. The goal is to show complete systems, not just isolated code snippets.
-
-| Project type | What it demonstrates |
-|---|---|
-| **AI productivity tools** | Prompt workflows, document editing, structured generation, useful AI interfaces |
-| **Business dashboards** | React interfaces, role-based access, reporting, operational workflows |
-| **Automation systems** | Turning repetitive manual work into reliable software |
-| **Cloud-backed apps** | APIs, databases, Docker, deployment, CI/CD, and production setup |
-
----
-
-## How I approach engineering
-
-```mermaid
-flowchart TD
-    A[Understand the real workflow] --> B[Define the smallest useful product]
+    A[Messy workflow] --> B[Map the process]
     B --> C[Design the data model]
     C --> D[Build the API]
-    D --> E[Build the interface]
-    E --> F[Deploy and monitor]
-    F --> G[Improve from real usage]
+    D --> E[Create the interface]
+    E --> F[Add AI / automation]
+    F --> G[Deploy + monitor]
 ```
 
 ---
 
-## Current focus
+## ./stack
 
-- Building AI-assisted tools that solve real workflow problems
-- Creating full-stack projects with clean READMEs and architecture notes
-- Turning business operations into usable dashboards and automation systems
-- Improving deployment, testing, observability, and system design
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1b1b?style=for-the-badge&logo=typescript&logoColor=F6C177)
+![React](https://img.shields.io/badge/React-1b1b1b?style=for-the-badge&logo=react&logoColor=F6C177)
+![Node.js](https://img.shields.io/badge/Node.js-1b1b1b?style=for-the-badge&logo=nodedotjs&logoColor=F6C177)
+![Express](https://img.shields.io/badge/Express-1b1b1b?style=for-the-badge&logo=express&logoColor=F6C177)
+![MongoDB](https://img.shields.io/badge/MongoDB-1b1b1b?style=for-the-badge&logo=mongodb&logoColor=F6C177)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1b1b1b?style=for-the-badge&logo=postgresql&logoColor=F6C177)
+![Azure](https://img.shields.io/badge/Azure-1b1b1b?style=for-the-badge&logo=microsoftazure&logoColor=F6C177)
+![Docker](https://img.shields.io/badge/Docker-1b1b1b?style=for-the-badge&logo=docker&logoColor=F6C177)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1b1b1b?style=for-the-badge&logo=githubactions&logoColor=F6C177)
+![Jest](https://img.shields.io/badge/Jest-1b1b1b?style=for-the-badge&logo=jest&logoColor=F6C177)
+
+</div>
 
 ---
 
-## Project principles
+## ./current-focus
 
-| Principle | What it means |
+<pre>
+[01] Building practical AI-assisted tools
+[02] Turning business operations into full-stack products
+[03] Creating clean public repos with strong READMEs
+[04] Improving deployment, testing, and system design
+[05] Making software that is useful before it is impressive
+</pre>
+
+---
+
+## ./engineering-principles
+
+| Principle | Meaning |
 |---|---|
-| **Useful before impressive** | I prefer AI tools that solve real workflow problems over flashy demos |
-| **Clear architecture** | I care about readable code, clean APIs, and maintainable project structure |
-| **Production mindset** | Deployment, security, testing, and monitoring are part of the build |
-| **Business context first** | Good software starts with understanding the actual operational problem |
+| **Useful before impressive** | I prefer AI tools that solve actual workflow problems over flashy demos |
+| **Business context first** | Good software starts with understanding the real operational problem |
+| **Clean architecture** | I care about readable APIs, maintainable structure, and sensible data models |
+| **Production mindset** | Deployment, testing, monitoring, and security are part of the build |
+| **Fast iteration** | Ship the smallest useful version, then improve from real usage |
 
 ---
 
-## GitHub activity
+## ./activity
 
 <div align="center">
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajgeorge&show_icons=true&hide_border=true&theme=transparent&cache_seconds=21600)
+![Aaron's GitHub Activity](./profile/stats.svg)
 
 </div>
 
 ---
 
-## Connect
+## ./connect
 
-<div align="center">
+<table>
+  <tr>
+    <td width="60%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajosgeorge/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronjosgeorge@gmail.com)
+<pre>
+$ ./connect --with aaron
 
-</div>
+github   : public builds, experiments, engineering notes
+linkedin : product, software, and AI workflow updates
+email    : roles, projects, collaborations, useful ideas
+
+status   : building at the intersection of AI, full-stack,
+           automation, and business operations
+</pre>
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://github.com/ajgeorge">
+  <img src="https://img.shields.io/badge/GitHub-ajgeorge-1b1b1b?style=for-the-badge&logo=github&logoColor=F6C177" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ajosgeorge/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aaron_George-1b1b1b?style=for-the-badge&logo=linkedin&logoColor=F6C177" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:aaronjosgeorge@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aaronjosgeorge%40gmail.com-1b1b1b?style=for-the-badge&logo=gmail&logoColor=F6C177" />
+</a>
+
+</td>
+  </tr>
+</table>
