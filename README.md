@@ -1,65 +1,143 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aaron%20George&textBg=false&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cloud%20Architect&descSize=25&reversal=false&fontColor=FFFFFF" alt="Aaron George Header" style="border-radius: 10px;"/>
+
+# Aaron George
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer;AI-Enabled+Business+Software;Automation+Tools+%7C+Internal+Systems+%7C+Cloud+Platforms;Building+practical+AI+tools+for+real+business+workflows)](https://git.io/typing-svg)
+
 </div>
 
-<p align="center" style="font-size: 18px; line-height: 1.6; margin: 30px 0;">
-  <strong style="color: #c431a9;">Cloud architect. TypeScript evangelist. Full-stack problem solver.</strong><br/>
-  <span style="color: #4f9a97;">Turning complex business problems into elegant, scalable solutions on Azure.</span><br/>
-  <span style="color: #db7c17;">Building systems that don't just work—they thrive under pressure.</span>
-</p>
+---
 
-<p align="center" style="margin: 40px 0;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(210, 124, 23, 0.3);">
-</p>
+## Building practical AI tools for real business workflows
+
+I’m a full-stack engineer focused on **AI-enabled software, automation tools, and cloud-backed business systems**.
+
+I work mainly with **React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Docker, and Azure**. My focus is building useful systems that solve operational problems, not just AI demos. That includes document automation, internal tools, admin dashboards, real-time systems, workflow copilots, and production-ready business platforms.
+
+I enjoy the full journey from messy requirements to working software: understanding the business problem, designing the data model, building the frontend and backend, deploying the system, and improving it through real usage.
+
+---
+
+## What I build
+
+| Area | Focus |
+|---|---|
+| **AI-assisted tools** | Resume editors, document generators, workflow copilots, structured output tools |
+| **Business platforms** | Admin portals, dashboards, booking systems, role-based systems, reporting tools |
+| **Automation systems** | Tools that reduce repetitive admin work and improve operational speed |
+| **Real-time apps** | WebSocket-based dashboards, technician tracking, live updates, notifications |
+| **Cloud deployments** | Azure, Docker, Nginx, PM2, CI/CD, storage, monitoring, production hardening |
+
+---
+
+## AI product workflow
+
+```mermaid
+flowchart LR
+    A[Messy Business Process] --> B[Workflow Mapping]
+    B --> C[Data Model + App Architecture]
+    C --> D[AI / Automation Layer]
+    D --> E[Full-Stack Product]
+    E --> F[Cloud Deployment + Monitoring]
+```
+
+---
+
+## Tech stack
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=What%20I%20Do&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&section=header" alt="What I Do Header" style="border-radius: 10px;" />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
 </div>
 
-<p align="justify" style="font-size: 15px; line-height: 1.8; color: #e8e8e8; background: linear-gradient(135deg, #1a2737 0%, #285559 100%); padding: 30px; border-radius: 12px; margin: 30px 0; box-shadow: 0 8px 25px rgba(76, 49, 169, 0.2);">
-  I design and build <strong style="color: #db7c17;">production-grade software</strong> that scales—from architecting cloud-native infrastructures on Azure to crafting lightning-fast APIs with Node.js and TypeScript.
-  
-  I'm obsessed with <strong style="color: #c431a9;">developer experience</strong> and operational excellence. That means automated CI/CD pipelines, comprehensive test suites, and systems instrumented for observability from day one. If it's not measurable, it's not manageable.
-  
-  I bridge the gap between <strong style="color: #5d27a1;">business vision and technical execution</strong>. Whether it's translating stakeholder requirements into technical specs, mentoring junior engineers, or shipping MVPs in record time, I thrive at the intersection of code and impact.
-  
-  My sweet spot? <strong style="color: #4f9a97;">Early-stage products and technical transformations</strong>—where ambiguity is high, stakes are real, and every architectural decision compounds. I've led e-commerce platforms from zero to 99.95% uptime, built real-time assistance platforms serving live users, and created AI-powered intake systems that slash kickoff times by 70%.
-  
-  <span style="color: #db7c17; font-size: 16px; display: block; margin-top: 15px; font-weight: bold; text-shadow: 0 0 8px rgba(219, 124, 23, 0.5);">I don't just write code. I ship systems that matter.</span>
-</p>
+---
+
+## Featured builds
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>AI Resume Editor</h3>
+      <p>A personal tool for tailoring CVs and cover letters while keeping them structured, readable, and ATS-friendly.</p>
+      <p><strong>Focus:</strong> AI writing workflows, document editing, structured generation</p>
+      <p><strong>Stack:</strong> React, Node.js, TypeScript</p>
+    </td>
+    <td width="33%">
+      <h3>AI Requirements Generator</h3>
+      <p>Turns rough business ideas into MVP scopes, feature lists, technical requirements, and implementation plans.</p>
+      <p><strong>Focus:</strong> Product thinking, prompt workflows, full-stack delivery</p>
+      <p><strong>Stack:</strong> TypeScript, Express, MongoDB</p>
+    </td>
+    <td width="33%">
+      <h3>Operations Dashboard</h3>
+      <p>A role-based dashboard for jobs, customers, staff, inventory, reporting, and internal business workflows.</p>
+      <p><strong>Focus:</strong> Admin systems, APIs, dashboards, deployment</p>
+      <p><strong>Stack:</strong> React, RTK Query, Node.js, Azure</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Current focus
+
+- Building public AI-assisted tools with clean READMEs, screenshots, and architecture notes
+- Turning real business workflows into full-stack products
+- Improving system design, testing, deployment, and observability
+- Creating practical software that combines AI, automation, and business operations
+
+---
+
+## How I approach engineering
+
+```mermaid
+flowchart TD
+    A[Understand the real workflow] --> B[Define the smallest useful product]
+    B --> C[Design the data model]
+    C --> D[Build the API]
+    D --> E[Build the interface]
+    E --> F[Deploy and monitor]
+    F --> G[Improve from real usage]
+```
+
+---
+
+## Project principles
+
+| Principle | What it means |
+|---|---|
+| **Useful before impressive** | I prefer AI tools that solve real workflow problems over flashy demos |
+| **Clear architecture** | I care about readable code, clean APIs, and maintainable project structure |
+| **Production mindset** | Deployment, security, testing, and monitoring are part of the build |
+| **Business context first** | Good software starts with understanding the actual operational problem |
+
+---
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Tech%20Stack&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&section=header" alt="Tech Stack Header" style="border-radius: 10px;" />
+
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronjosgeorge&show_icons=true&hide_border=true&theme=transparent)
+
 </div>
 
-<div align="center" style="margin: 35px 0;">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</div>
+---
+
+## Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Let's%20Connect&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&section=header" alt="Let's Connect Header" style="border-radius: 10px;" />
-</div>
 
-<div align="center" style="margin: 40px 0; padding: 25px; background: linear-gradient(135deg, #285559 0%, #1a2737 100%); border-radius: 15px; box-shadow: 0 6px 20px rgba(93, 39, 161, 0.2);">
-  <a href="https://github.com/ajgeorge-agricope">
-    <img src="https://img.shields.io/badge/GitHub-Work_Account-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajosgeorge/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aaronjosgeorge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajosgeorge/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronjosgeorge@gmail.com)
+
 </div>
