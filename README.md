@@ -18,9 +18,6 @@ A production-inspired platform for AI-powered internal operations tools. TypeScr
 **[AI-gitscorer](https://github.com/ajgeorge/AI-gitscorer)**
 A tool that analyses GitHub repositories and scores engineering quality signals. Node.js API with an LLM analysis pipeline and a web interface.
 
-**[delivery-customer-portal](https://github.com/ajgeorge/Deliveryappcustomerportal)**
-Customer-facing portal for a delivery platform. TypeScript, React and a REST backend.
-
 ## Production systems I've built
 
 Most of my day-to-day work ships in private client repositories, so here is the short version of each.
