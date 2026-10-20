@@ -1,6 +1,6 @@
 # Aaron Joseph George
 
-Backend engineer with 4 years of experience building production REST APIs and real-time systems with Node.js, TypeScript and PostgreSQL. Currently a senior engineer at a venture studio, where I own backend architecture across multiple live products.
+Backend engineer with 4+ years of experience building production REST APIs and real-time systems with Node.js, TypeScript and PostgreSQL. Currently a senior engineer at a venture studio, where I own backend architecture across multiple live products.
 
 **London, UK. Graduate visa with full right to work. No sponsorship required.**
 
